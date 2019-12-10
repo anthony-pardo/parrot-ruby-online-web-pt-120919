@@ -1,3 +1,4 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phr
-ase
+def parrot(string = "Squak!")
+  puts string
+  string
+end
